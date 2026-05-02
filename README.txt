@@ -1,0 +1,2 @@
+To run the code that is present in this repository, you first need to include the TMBD Movie Dataset.csv. From there, everything else will be computed accordingly. 
+If the train and test files don't automatically become included to the file section in the Google Colab, you can upload them manually into your code (as they will be downloaded to your computer). That will bring you to the results at the bottom, which show the accuracy per model!
